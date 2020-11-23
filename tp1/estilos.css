@@ -1,0 +1,32 @@
+.encabezado
+{
+    background-color: white;
+}
+
+.btnAtras
+{
+    color: brown;
+}
+
+title {
+    background-color: yellow;
+}
+
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+    background-color: blue
+}
+
+table#tabla{
+    width: 60%  ;
+    background-color: white;
+}
